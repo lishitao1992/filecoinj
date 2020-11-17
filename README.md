@@ -25,5 +25,11 @@ filecoin.createWallet();
 2.导入私钥
 filecoin.importWallet("私钥");
 ```
+需要注意的是：
+ove.blake2b
+这个包可能下不下来
+这里附上github的链接：https://github.com/alphazero/Blake2b
+大家可以自行下载打包到本地
+        
 详细的大家可以参考代码，还有测试方法，代码都比较简单，有需要的码友可以去不断的优化
 有时间我会更新整理一下
